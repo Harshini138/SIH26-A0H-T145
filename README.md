@@ -22,7 +22,8 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       | AMAL GS             |                       |                         |                          |
+| Academic       | AMAL GS             | Assistant Professor   |Chemical engineering and | gs_amal@cb.amrita.edu
+                                                                materials science        |                          |
 | Industry       |                     |                       |                         |                          |
 
 -----
